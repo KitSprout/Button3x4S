@@ -2,11 +2,11 @@
 ========
 * Author  : [Hom](https://about.me/Hom)
 * Version : v1.0
-* Update  : 2014/08/11
+* Update  : 2014/08/16
 
 Description
 ========
-Button 模組，接上上拉電阻，On - 0, Off-1。
+Button 模組，接上上拉電阻，On - 0, Off - 1。
 
 License
 ========
@@ -30,6 +30,8 @@ Related Documents
 
 View
 ========
+<img src="https://lh4.googleusercontent.com/-gZdfp9kSO98/U-7G7ftculI/AAAAAAAAKac/C3c4QBqhoEI/s1600/DSC_2412.jpg" />
 
 Schematic
 ========
+<img src="https://lh6.googleusercontent.com/-PKyjcxhZPcw/U-7G80Y0OAI/AAAAAAAAKbA/zYkzjwRjBdE/s1600/Sch_Button3x4S-4.png" />
